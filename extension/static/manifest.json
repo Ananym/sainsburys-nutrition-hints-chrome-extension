@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Sainsbury's Nutrition Hints",
   "version": "0.1.0",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAobKI/dmR7ku/hWSe+DrUsktM2GV0eQTBFBMbrExWukHpNPF7+rANQ95qt+yuqTOeS1Z94enIHrX1oi3Cu3dN6uREdc4plNGF/hMl2MH4DHK9mRb2QoMnWcsz9tK+CW2JPfcugN4eAqFfByjQ164NIJBvXe834D48/r2ICNPKcmQ5sNOQ3pkEhB9MOjY1J8kFck8kmxG3qyiBceG66WHqh0IcOCF7zzvr8BdzhPNcWZyJdoNi/7fpoiJbCns8jAuNipmZWeygheetoz33ABV0XCW+4XBQMeIsJaKzojT8neUZcetasvapmARL20sVMOheLCiC6BkTYTYifS/UP4dyjQIDAQAB",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkc1DLbVM2w8htBHfhleBPFTfAcNN0HEbu11r5oKQ0hjPqmpB+kgU+9aaG8pJnmoydb0KWxUszS0mf/EdXdHYhYUHFf4GRFLTvRlXzHTB3n79BuaPjzboBnoPW6NnWmW04eQ8DmPlnBk1O/qz/mqCSZtQYd3tgE71AZyzIai6c9Cst1O3QlGIpZ16N2fQMLmXYw5ALbLTc07C52RyWo5E7dOI5sftlbngyrwVdMkRgSA/GuHp0RR88p5z8qS78EDFJajnT2UuWWVJw9lZw9lu2DCUeUvsF64JdGmjmhLCB4Ry4cM71undtKlJ0a5a/JV+a9y+xprsRmKU3YFkID+ixwIDAQAB",
   "description": "Shows nutrition info overlays and protein value sorting on Sainsbury's grocery pages",
   "permissions": ["storage", "alarms"],
   "action": {

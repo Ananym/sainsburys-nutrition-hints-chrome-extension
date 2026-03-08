@@ -1,5 +1,5 @@
 import * as esbuild from "esbuild";
-import { cpSync, mkdirSync } from "fs";
+import { cpSync, mkdirSync, readFileSync, writeFileSync } from "fs";
 
 const watch = process.argv.includes("--watch");
 
@@ -22,7 +22,10 @@ const buildOptions = {
 };
 
 function copyStatic() {
-  cpSync("static/manifest.json", "dist/manifest.json");
+  // Strip "key" from manifest for Web Store compatibility
+  const manifest = JSON.parse(readFileSync("static/manifest.json", "utf-8"));
+  delete manifest.key;
+  writeFileSync("dist/manifest.json", JSON.stringify(manifest, null, 2));
   cpSync("static/content.css", "dist/content.css");
 cpSync("static/popup.html", "dist/popup.html");
   cpSync("static/icon.png", "dist/icon.png");
