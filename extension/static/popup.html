@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { width: 260px; font-family: system-ui, sans-serif; padding: 12px; margin: 0; }
+    h3 { font-size: 14px; margin: 0 0 10px; }
+    .info { font-size: 11px; color: #666; margin-bottom: 3px; }
+    .info strong { color: #333; }
+    .error { color: #c00; }
+    .success { color: #080; }
+    #statusArea { margin-bottom: 10px; }
+    button { display: block; width: 100%; padding: 7px; margin-bottom: 5px; cursor: pointer;
+             background: #f36c21; color: #fff; border: none; border-radius: 4px; font-size: 12px; }
+    button:hover { background: #d95a15; }
+    button.secondary { background: #888; }
+    button.secondary:hover { background: #666; }
+    button:disabled { opacity: 0.5; cursor: default; }
+    #feedback { font-size: 11px; margin-top: 6px; min-height: 14px; }
+    input[type="file"] { display: none; }
+  </style>
+</head>
+<body>
+  <h3>Sainsbury's Nutrition Hints</h3>
+  <div id="statusArea">
+    <div class="info" id="productCount">Loading...</div>
+    <div class="info" id="lastCheck"></div>
+    <div class="info" id="lastNewData"></div>
+  </div>
+  <button id="reloadBtn">Reload remote data</button>
+  <button id="clearBtn" class="secondary">Clear data</button>
+  <button id="importBtn" class="secondary">Load data from file</button>
+  <input type="file" id="file" accept=".json">
+  <div id="feedback"></div>
+  <script src="popup.js"></script>
+</body>
+</html>

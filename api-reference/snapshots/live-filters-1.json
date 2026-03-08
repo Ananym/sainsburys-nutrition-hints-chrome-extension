@@ -1,0 +1,509 @@
+[
+  {
+    "key": "nav_Filter-Your-Results",
+    "label": "Filter Your Results",
+    "type": "MULTI_SELECT",
+    "values": [
+      {
+        "id": "87",
+        "label": "Favourites",
+        "value": "Favourites",
+        "selected": false,
+        "enabled": false
+      },
+      {
+        "id": "86",
+        "label": "New",
+        "value": "New",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "88",
+        "label": "Offers & Nectar Prices",
+        "value": "Offers",
+        "selected": false,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "key": "nav_Brand",
+    "label": "Brand",
+    "type": "MULTI_SELECT",
+    "values": [
+      {
+        "id": "887",
+        "label": "Sainsbury's",
+        "value": "Sainsbury's",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966346",
+        "label": "Taste the Difference",
+        "value": "Taste-the-Difference",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294959259",
+        "label": "Collection",
+        "value": "Collection",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965886",
+        "label": "Whiskas",
+        "value": "Whiskas",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965279",
+        "label": "Max Factor",
+        "value": "Max-Factor",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965444",
+        "label": "Persil",
+        "value": "Persil",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965983",
+        "label": "Tilda",
+        "value": "Tilda",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294946983",
+        "label": "Occasions by Sainsbury's",
+        "value": "Occasions-by-Sainsbury's",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294958427",
+        "label": "Wasabi",
+        "value": "Wasabi",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294956399",
+        "label": "Rimmel London",
+        "value": "Rimmel-London",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294948135",
+        "label": "Stamford Street Co.",
+        "value": "Stamford-Street-Co.",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966200",
+        "label": "Napolina",
+        "value": "Napolina",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294953491",
+        "label": "Charlie Bigham's",
+        "value": "Charlie-Bigham's",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965484",
+        "label": "Aptamil",
+        "value": "Aptamil",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966130",
+        "label": "Batchelors",
+        "value": "Batchelors",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965919",
+        "label": "Cadbury",
+        "value": "Cadbury",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965942",
+        "label": "Garnier",
+        "value": "Garnier",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294948954",
+        "label": "L'Oréal Paris",
+        "value": "L'Oréal-Paris",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965920",
+        "label": "Maybelline",
+        "value": "Maybelline",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294958761",
+        "label": "Sainsbury's Home",
+        "value": "Sainsbury's-Home",
+        "selected": false,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "key": "diet_Dietary_and_Lifestyle_Options",
+    "label": "Dietary and Lifestyle Options",
+    "type": "MULTI_SELECT",
+    "values": [
+      {
+        "id": "4294965807",
+        "label": "British",
+        "value": "British",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966277",
+        "label": "Cannot be Microwaved",
+        "value": "CannotBeMicrowaved",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294963376",
+        "label": "Suitable for Diabetics",
+        "value": "Diabetics",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294951364",
+        "label": "Donating brands",
+        "value": "Donating-brands",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966334",
+        "label": "Do Not Freeze",
+        "value": "DoNotFreeze",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966273",
+        "label": "Fairtrade Foundation",
+        "value": "FairtradeFoundation",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965889",
+        "label": "Gluten free",
+        "value": "Gluten-free",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966338",
+        "label": "Halal",
+        "value": "Halal",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966168",
+        "label": "Keep Frozen",
+        "value": "KeepFrozen",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966372",
+        "label": "Keep Refrigerated",
+        "value": "KeepRefrigerated",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966337",
+        "label": "Kosher",
+        "value": "Kosher",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966369",
+        "label": "Low Salt",
+        "value": "Low-Salt",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965888",
+        "label": "Milk free",
+        "value": "Milk-free",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966368",
+        "label": "No Added Salt",
+        "value": "NoAddedSalt",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966391",
+        "label": "No Added Sugar",
+        "value": "NoAddedSugar",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294965801",
+        "label": "Not Suitable for Home Freezing",
+        "value": "NotSuitableforFreezing",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966258",
+        "label": "Not Suitable For Nut Allergy",
+        "value": "NotSuitableForNutAllergy",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966000",
+        "label": "Not Tested on Animals",
+        "value": "NotTestedonAnimals",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966045",
+        "label": "Organic",
+        "value": "Organic",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966164",
+        "label": "Suitable for Coeliacs",
+        "value": "SuitableforCoeliacs",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966347",
+        "label": "Suitable for Home Freezing",
+        "value": "SuitableForHomeFreezing",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966367",
+        "label": "Suitable for Vegans",
+        "value": "Vegans",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "4294966409",
+        "label": "Suitable for Vegetarians",
+        "value": "Vegetarians",
+        "selected": false,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "key": "cat_Category",
+    "label": "Category",
+    "type": "SINGLE_SELECT",
+    "values": [
+      {
+        "label": "All Categories",
+        "value": "all",
+        "selected": true,
+        "enabled": true
+      },
+      {
+        "id": "11651",
+        "label": "Baby & toddler",
+        "value": "baby-toddler-products",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "12320",
+        "label": "Bakery",
+        "value": "bakery",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "448352",
+        "label": "Beauty & cosmetics",
+        "value": "beauty-and-cosmetics",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "428866",
+        "label": "Dairy, eggs & chilled",
+        "value": "dairy-eggs-and-chilled",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "453878",
+        "label": "Dietary & world foods",
+        "value": "dietary-and-lifestyle",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "12192",
+        "label": "Drinks",
+        "value": "drinks",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "12422",
+        "label": "Food cupboard",
+        "value": "food-cupboard",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "218831",
+        "label": "Frozen",
+        "value": "frozen-",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "12518",
+        "label": "Fruit & vegetables",
+        "value": "fruit-veg",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "281806",
+        "label": "Homeware & outdoor",
+        "value": "home",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "12564",
+        "label": "Household",
+        "value": "household",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "13343",
+        "label": "Meat & fish",
+        "value": "meat-fish",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "616852",
+        "label": "Occasions",
+        "value": "occasions",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "12298",
+        "label": "Pet",
+        "value": "pet",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "355372",
+        "label": "Seasonal inspiration",
+        "value": "new---trending",
+        "selected": false,
+        "enabled": true
+      },
+      {
+        "id": "12448",
+        "label": "Toiletries & health",
+        "value": "health-beauty",
+        "selected": false,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "key": "subcat_SubCategory",
+    "label": "SubCategory",
+    "type": "SINGLE_SELECT",
+    "values": [
+      {
+        "label": "All Subcategories",
+        "value": "all",
+        "selected": true,
+        "enabled": false
+      }
+    ]
+  },
+  {
+    "key": "aisle_Aisle",
+    "label": "Aisle",
+    "type": "SINGLE_SELECT",
+    "values": [
+      {
+        "label": "All Aisles",
+        "value": "all",
+        "selected": true,
+        "enabled": false
+      }
+    ]
+  },
+  {
+    "key": "shelf_Shelf",
+    "label": "Shelf",
+    "type": "SINGLE_SELECT",
+    "values": [
+      {
+        "label": "All Shelves",
+        "value": "all",
+        "selected": true,
+        "enabled": false
+      }
+    ]
+  }
+]

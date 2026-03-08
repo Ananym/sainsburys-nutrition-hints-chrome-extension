@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Sainsbury's Nutrition Hints",
+  "version": "0.1.0",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAobKI/dmR7ku/hWSe+DrUsktM2GV0eQTBFBMbrExWukHpNPF7+rANQ95qt+yuqTOeS1Z94enIHrX1oi3Cu3dN6uREdc4plNGF/hMl2MH4DHK9mRb2QoMnWcsz9tK+CW2JPfcugN4eAqFfByjQ164NIJBvXe834D48/r2ICNPKcmQ5sNOQ3pkEhB9MOjY1J8kFck8kmxG3qyiBceG66WHqh0IcOCF7zzvr8BdzhPNcWZyJdoNi/7fpoiJbCns8jAuNipmZWeygheetoz33ABV0XCW+4XBQMeIsJaKzojT8neUZcetasvapmARL20sVMOheLCiC6BkTYTYifS/UP4dyjQIDAQAB",
+  "description": "Shows nutrition info overlays and protein value sorting on Sainsbury's grocery pages",
+  "permissions": ["storage", "alarms"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Nutrition Hints"
+  },
+  "host_permissions": ["*://*.sainsburys.co.uk/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.sainsburys.co.uk/gol-ui/*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}

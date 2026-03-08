@@ -1,0 +1,25 @@
+{
+  "name": "sainsburys-api-reference",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "explore": "tsx src/explore.ts"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "axios-cookiejar-support": "^4.0.7",
+    "jsdom": "^28.1.0",
+    "playwright": "^1.58.2",
+    "puppeteer-core": "^24.37.5",
+    "tough-cookie": "^4.1.3"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^28.0.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0",
+    "vitest": "^3.0.0"
+  }
+}

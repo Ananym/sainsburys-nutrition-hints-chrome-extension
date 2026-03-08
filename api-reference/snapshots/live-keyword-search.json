@@ -1,0 +1,717 @@
+{
+  "products": [
+    {
+      "product_uid": "7977681",
+      "favourite_uid": null,
+      "eans": [
+        "0000000366991"
+      ],
+      "product_type": "BASIC",
+      "name": "Sainsbury's 320g British Fresh Skinless & Boneless Chicken Breast Fillets",
+      "image": "https://www.sainsburys.co.uk/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/productImages/91/0000000366991/0000000366991_L.jpeg",
+      "image_zoom": null,
+      "image_thumbnail": "https://www.sainsburys.co.uk/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/productImages/91/0000000366991/0000000366991_M.jpeg",
+      "image_thumbnail_small": "https://www.sainsburys.co.uk/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/productImages/91/0000000366991/0000000366991_S.jpeg",
+      "full_url": "https://www.sainsburys.co.uk/shop/gb/groceries/product/details/sainsburys-chicken-breast-fillets-300g",
+      "unit_price": {
+        "price": 7.31,
+        "measure": "kg",
+        "measure_amount": 1
+      },
+      "retail_price": {
+        "price": 2.34,
+        "measure": "unit"
+      },
+      "is_available": true,
+      "promotions": [],
+      "associations": [],
+      "is_alcoholic": false,
+      "is_spotlight": false,
+      "is_intolerant": false,
+      "is_mhra": false,
+      "badges": [],
+      "labels": [
+        {
+          "label_uid": "Chilled",
+          "text": "Chilled",
+          "alt_text": "Chilled",
+          "color": "#005096",
+          "link_opens_in_new_window": false
+        },
+        {
+          "label_uid": "British",
+          "text": "BRITISH",
+          "alt_text": "BRITISH",
+          "color": "#4c4c4c",
+          "link_opens_in_new_window": false
+        },
+        {
+          "label_uid": "Aldi Price Match",
+          "text": "ALDI PRICE MATCH*",
+          "alt_text": "ALDI PRICE MATCH*",
+          "color": "#D70000",
+          "link": "https://www.sainsburys.co.uk/gol-ui/events/aldi-price-match",
+          "link_opens_in_new_window": false
+        },
+        {
+          "label_uid": "TypicalLife4Days",
+          "text": "Typical life 4 days",
+          "alt_text": "Typical life 4 days",
+          "color": "#218234",
+          "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+          "link_opens_in_new_window": false
+        }
+      ],
+      "zone": null,
+      "department": null,
+      "reviews": {
+        "is_enabled": true,
+        "product_uid": "7977681",
+        "total": 911,
+        "average_rating": 3.034
+      },
+      "breadcrumbs": [],
+      "assets": {
+        "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7977681/image.jpg",
+        "images": [],
+        "video": []
+      },
+      "description": [],
+      "important_information": [
+        "The above details have been prepared to help you select suitable products. Products and their ingredients are liable to change.",
+        "<strong>You should always read the label before consuming or using the product and never rely solely on the information presented here.",
+        "If you require specific advice on any Sainsbury's branded product, please contact our Customer Careline on 0800 636262. For all other products, please contact the manufacturer, whose details will appear on the packaging or label. Sainsbury's is therefore unable to accept liability for any incorrect information.",
+        "You should also note that the picture / images show only our serving suggestions of how to serve or prepare your food – all accessories and additional items and/or ingredients pictured with the product you are purchasing are not included.",
+        "This information is supplied for your personal use only. It may not be reproduced in any way without the prior consent of Sainsbury's Supermarkets Ltd and due acknowledgement"
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "id": "310865",
+          "name": "Chicken breast & fillet"
+        },
+        {
+          "id": "417391",
+          "name": "Price lockdown"
+        },
+        {
+          "id": "442353",
+          "name": "Price Lock"
+        },
+        {
+          "id": "450494",
+          "name": "Cross sell audit - Do not leave on"
+        },
+        {
+          "id": "474595",
+          "name": "Meat & fish essentials"
+        },
+        {
+          "id": "502859",
+          "name": "Aldi Price Match"
+        },
+        {
+          "id": "500860",
+          "name": "Better for you meat & fish"
+        },
+        {
+          "id": "602362",
+          "name": "Ways to save"
+        },
+        {
+          "id": "607854",
+          "name": "Aldi Price Match"
+        },
+        {
+          "id": "604354",
+          "name": "Best of British"
+        },
+        {
+          "id": "641353",
+          "name": "Best of British"
+        }
+      ],
+      "attributes": {
+        "brand": [
+          "Sainsbury's"
+        ]
+      },
+      "is_supply_chain_orderable": false,
+      "display_icons": [
+        "Chilled",
+        "British",
+        "Aldi Price Match",
+        "TypicalLife4Days"
+      ],
+      "pdp_deep_link": "/shop/ProductDisplay?storeId=10151&langId=44&productId=1299208"
+    },
+    {
+      "product_uid": "7977417",
+      "favourite_uid": null,
+      "eans": [
+        "0000000366670"
+      ],
+      "product_type": "BASIC",
+      "name": "Sainsbury's 400g British Fresh Diced Chicken Breast",
+      "image": "https://www.sainsburys.co.uk/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/productImages/70/0000000366670/0000000366670_L.jpeg",
+      "image_zoom": null,
+      "image_thumbnail": "https://www.sainsburys.co.uk/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/productImages/70/0000000366670/0000000366670_M.jpeg",
+      "image_thumbnail_small": "https://www.sainsburys.co.uk/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/productImages/70/0000000366670/0000000366670_S.jpeg",
+      "full_url": "https://www.sainsburys.co.uk/shop/gb/groceries/product/details/sainsburys-chicken-breast-diced-410g",
+      "unit_price": {
+        "price": 9.88,
+        "measure": "kg",
+        "measure_amount": 1
+      },
+      "retail_price": {
+        "price": 3,
+        "measure": "unit"
+      },
+      "nectar_price": {
+        "retail_price": 3,
+        "unit_price": 7.5,
+        "measure": "unit",
+        "url": "https://www.sainsburys.co.uk/shop/gb/groceries/new---trending/nectar-prices",
+        "category_seo_url": "gb/groceries/new---trending/nectar-prices"
+      },
+      "is_available": true,
+      "promotions": [
+        {
+          "promotion_uid": "10724414",
+          "icon": "https://www.sainsburys.co.uk/wcsstore/Sainsburys/Promotion assets/Promotion icons/Buy_X_For_Y_Amt_S_Icon.gif",
+          "link": "/gol-ui/promo-lister/10724414",
+          "strap_line": "Buy 1 for 3",
+          "start_date": "2026-02-18T00:00:00Z",
+          "end_date": "2026-03-10T00:00:00Z",
+          "original_price": 3.95,
+          "promo_mechanic_id": "99",
+          "is_nectar": true,
+          "promo_type": "SIMPLE_FIXED_PRICE",
+          "promo_group": "simple"
+        }
+      ],
+      "associations": [],
+      "is_alcoholic": false,
+      "is_spotlight": false,
+      "is_intolerant": false,
+      "is_mhra": false,
+      "badges": [],
+      "labels": [
+        {
+          "label_uid": "Chilled",
+          "text": "Chilled",
+          "alt_text": "Chilled",
+          "color": "#005096",
+          "link_opens_in_new_window": false
+        },
+        {
+          "label_uid": "British",
+          "text": "BRITISH",
+          "alt_text": "BRITISH",
+          "color": "#4c4c4c",
+          "link_opens_in_new_window": false
+        },
+        {
+          "label_uid": "TypicalLife4Days",
+          "text": "Typical life 4 days",
+          "alt_text": "Typical life 4 days",
+          "color": "#218234",
+          "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+          "link_opens_in_new_window": false
+        }
+      ],
+      "zone": null,
+      "department": null,
+      "reviews": {
+        "is_enabled": true,
+        "product_uid": "7977417",
+        "total": 117,
+        "average_rating": 3.1026
+      },
+      "breadcrumbs": [],
+      "assets": {
+        "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7977417/image.jpg",
+        "images": [],
+        "video": []
+      },
+      "description": [],
+      "important_information": [
+        "The above details have been prepared to help you select suitable products. Products and their ingredients are liable to change.",
+        "<strong>You should always read the label before consuming or using the product and never rely solely on the information presented here.",
+        "If you require specific advice on any Sainsbury's branded product, please contact our Customer Careline on 0800 636262. For all other products, please contact the manufacturer, whose details will appear on the packaging or label. Sainsbury's is therefore unable to accept liability for any incorrect information.",
+        "You should also note that the picture / images show only our serving suggestions of how to serve or prepare your food – all accessories and additional items and/or ingredients pictured with the product you are purchasing are not included.",
+        "This information is supplied for your personal use only. It may not be reproduced in any way without the prior consent of Sainsbury's Supermarkets Ltd and due acknowledgement"
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "id": "310865",
+          "name": "Chicken breast & fillet"
+        },
+        {
+          "id": "410358",
+          "name": "Special offers"
+        },
+        {
+          "id": "450494",
+          "name": "Cross sell audit - Do not leave on"
+        },
+        {
+          "id": "450503",
+          "name": "Curry night"
+        },
+        {
+          "id": "474584",
+          "name": "First shop essentials"
+        },
+        {
+          "id": "474595",
+          "name": "Meat & fish essentials"
+        },
+        {
+          "id": "495871",
+          "name": "Build a stir fry with Amoy"
+        },
+        {
+          "id": "495872",
+          "name": "Build a stir fry with Amoy"
+        },
+        {
+          "id": "500860",
+          "name": "Better for you meat & fish"
+        },
+        {
+          "id": "550353",
+          "name": "Inspired to cook"
+        },
+        {
+          "id": "604354",
+          "name": "Best of British"
+        },
+        {
+          "id": "641353",
+          "name": "Best of British"
+        }
+      ],
+      "header": {
+        "text": "Nectar price",
+        "type": "NECTAR"
+      },
+      "attributes": {
+        "brand": [
+          "Sainsbury's"
+        ]
+      },
+      "is_supply_chain_orderable": false,
+      "display_icons": [
+        "Chilled",
+        "British",
+        "TypicalLife4Days"
+      ],
+      "pdp_deep_link": "/shop/ProductDisplay?storeId=10151&langId=44&productId=1299122"
+    }
+  ],
+  "controls": {
+    "sort": {
+      "active": "FAVOURITES_FIRST",
+      "options": [
+        {
+          "display": "Relevance",
+          "value": "FAVOURITES_FIRST"
+        },
+        {
+          "display": "Price - Low to High",
+          "value": "PRICE_ASC"
+        },
+        {
+          "display": "Price - High to Low",
+          "value": "PRICE_DESC"
+        },
+        {
+          "display": "Product Name - A to Z",
+          "value": "NAME_ASC"
+        },
+        {
+          "display": "Product Name - Z to A",
+          "value": "NAME_DESC"
+        },
+        {
+          "display": "Top Sellers",
+          "value": "TOP_SELLERS"
+        },
+        {
+          "display": "Ratings - High to Low",
+          "value": "RATINGS_DESC"
+        }
+      ]
+    },
+    "total_record_count": 105,
+    "returned_record_count": 2,
+    "page": {
+      "active": 1,
+      "first": 1,
+      "last": 53,
+      "size": 2,
+      "size_options": [
+        30,
+        60,
+        90
+      ]
+    },
+    "filters": [
+      {
+        "key": "nav_Filter-Your-Results",
+        "label": "Filter Your Results",
+        "type": "MULTI_SELECT",
+        "values": [
+          {
+            "id": "87",
+            "label": "Favourites",
+            "value": "Favourites",
+            "selected": false,
+            "enabled": false
+          },
+          {
+            "id": "86",
+            "label": "New",
+            "value": "New",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "88",
+            "label": "Offers & Nectar Prices",
+            "value": "Offers",
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "key": "nav_Brand",
+        "label": "Brand",
+        "type": "MULTI_SELECT",
+        "values": [
+          {
+            "id": "887",
+            "label": "Sainsbury's",
+            "value": "Sainsbury's",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294966346",
+            "label": "Taste the Difference",
+            "value": "Taste-the-Difference",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294966207",
+            "label": "Encore",
+            "value": "Encore",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294965102",
+            "label": "SO Organic",
+            "value": "SO-Organic",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294948135",
+            "label": "Stamford Street Co.",
+            "value": "Stamford-Street-Co.",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294953380",
+            "label": "Taste Inc",
+            "value": "Taste-Inc",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294961388",
+            "label": "Thrive",
+            "value": "Thrive",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294959313",
+            "label": "Untamed",
+            "value": "Untamed",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294966278",
+            "label": "Birds Eye",
+            "value": "Birds-Eye",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294964752",
+            "label": "Dunn's River",
+            "value": "Dunn's-River",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294961301",
+            "label": "HiLife",
+            "value": "HiLife",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294961804",
+            "label": "Humza",
+            "value": "Humza",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294950229",
+            "label": "Jahan",
+            "value": "Jahan",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294965160",
+            "label": "Oxo",
+            "value": "Oxo",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294957759",
+            "label": "Summer Editions",
+            "value": "Summer-Editions",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294962184",
+            "label": "Tariq Halal",
+            "value": "Tariq-Halal",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294950157",
+            "label": "Taste Inc.",
+            "value": "Taste-Inc.",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294947681",
+            "label": "The House of Chicken",
+            "value": "The-House-of-Chicken",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294961468",
+            "label": "Tulip",
+            "value": "Tulip",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294958427",
+            "label": "Wasabi",
+            "value": "Wasabi",
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "key": "diet_Dietary_and_Lifestyle_Options",
+        "label": "Dietary and Lifestyle Options",
+        "type": "MULTI_SELECT",
+        "values": [
+          {
+            "id": "4294965807",
+            "label": "British",
+            "value": "British",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294964771",
+            "label": "Cannot be cooked from Frozen",
+            "value": "CannotBeCookedFromFrozen",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294966338",
+            "label": "Halal",
+            "value": "Halal",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294966168",
+            "label": "Keep Frozen",
+            "value": "KeepFrozen",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294966372",
+            "label": "Keep Refrigerated",
+            "value": "KeepRefrigerated",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294966369",
+            "label": "Low Salt",
+            "value": "Low-Salt",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294965801",
+            "label": "Not Suitable for Home Freezing",
+            "value": "NotSuitableforFreezing",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294966045",
+            "label": "Organic",
+            "value": "Organic",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "4294966347",
+            "label": "Suitable for Home Freezing",
+            "value": "SuitableForHomeFreezing",
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "key": "cat_Category",
+        "label": "Category",
+        "type": "SINGLE_SELECT",
+        "values": [
+          {
+            "label": "All Categories",
+            "value": "all",
+            "selected": true,
+            "enabled": true
+          },
+          {
+            "id": "428866",
+            "label": "Dairy, eggs & chilled",
+            "value": "dairy-eggs-and-chilled",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "453878",
+            "label": "Dietary & world foods",
+            "value": "dietary-and-lifestyle",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "12422",
+            "label": "Food cupboard",
+            "value": "food-cupboard",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "218831",
+            "label": "Frozen",
+            "value": "frozen-",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "12518",
+            "label": "Fruit & vegetables",
+            "value": "fruit-veg",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "13343",
+            "label": "Meat & fish",
+            "value": "meat-fish",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "12298",
+            "label": "Pet",
+            "value": "pet",
+            "selected": false,
+            "enabled": true
+          },
+          {
+            "id": "355372",
+            "label": "Seasonal inspiration",
+            "value": "new---trending",
+            "selected": false,
+            "enabled": true
+          }
+        ]
+      },
+      {
+        "key": "subcat_SubCategory",
+        "label": "SubCategory",
+        "type": "SINGLE_SELECT",
+        "values": [
+          {
+            "label": "All Subcategories",
+            "value": "all",
+            "selected": true,
+            "enabled": false
+          }
+        ]
+      },
+      {
+        "key": "aisle_Aisle",
+        "label": "Aisle",
+        "type": "SINGLE_SELECT",
+        "values": [
+          {
+            "label": "All Aisles",
+            "value": "all",
+            "selected": true,
+            "enabled": false
+          }
+        ]
+      },
+      {
+        "key": "shelf_Shelf",
+        "label": "Shelf",
+        "type": "SINGLE_SELECT",
+        "values": [
+          {
+            "label": "All Shelves",
+            "value": "all",
+            "selected": true,
+            "enabled": false
+          }
+        ]
+      }
+    ]
+  }
+}

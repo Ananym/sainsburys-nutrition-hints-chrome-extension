@@ -1,0 +1,254 @@
+{
+  "products": [
+    {
+      "sainId": "w7q063n7",
+      "product_uid": "7977681",
+      "favourite_uid": null,
+      "eans": [
+        "0000000366991"
+      ],
+      "product_type": "BASIC",
+      "name": "Sainsbury's 320g British Fresh Skinless & Boneless Chicken Breast Fillets",
+      "image": "https://www.sainsburys.co.uk/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/productImages/91/0000000366991/0000000366991_L.jpeg",
+      "image_zoom": null,
+      "image_thumbnail": "https://www.sainsburys.co.uk/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/productImages/91/0000000366991/0000000366991_M.jpeg",
+      "image_thumbnail_small": "https://www.sainsburys.co.uk/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/productImages/91/0000000366991/0000000366991_S.jpeg",
+      "full_url": "https://www.sainsburys.co.uk/gol-ui/product/sainsburys-chicken-breast-fillets-300g",
+      "unit_price": {
+        "price": 7.31,
+        "measure": "kg",
+        "measure_amount": 1
+      },
+      "retail_price": {
+        "price": 2.34,
+        "measure": "unit"
+      },
+      "original_unit_price": {
+        "price": 7.31,
+        "measure": "kg",
+        "measure_amount": 1
+      },
+      "is_available": true,
+      "promotions": [],
+      "hfss_restriction": [
+        {
+          "country": "ENG",
+          "restricted": false,
+          "hfss_category": "Out of scope or Product not in a legislative category",
+          "hfss_score": 0,
+          "last_change_date": "2025-09-24T12:59:02Z"
+        },
+        {
+          "country": "SCT",
+          "restricted": false,
+          "hfss_category": "Out of scope or Product not in a legislative category",
+          "hfss_score": 0,
+          "last_change_date": "2025-09-24T12:59:02Z"
+        },
+        {
+          "country": "WLS",
+          "restricted": false,
+          "hfss_category": "Out of scope or Product not in a legislative category",
+          "hfss_score": 0,
+          "last_change_date": "2025-09-24T12:59:02Z"
+        },
+        {
+          "country": "NIR",
+          "restricted": false,
+          "hfss_category": "Out of scope or Product not in a legislative category",
+          "hfss_score": 0,
+          "last_change_date": "2025-09-24T12:59:02Z"
+        }
+      ],
+      "not_for_eu": true,
+      "associations": [],
+      "is_alcoholic": false,
+      "is_spotlight": false,
+      "is_intolerant": false,
+      "is_mhra": false,
+      "badges": [],
+      "labels": [
+        {
+          "label_uid": "Chilled",
+          "text": "Chilled",
+          "alt_text": "Chilled",
+          "color": "#005096",
+          "link_opens_in_new_window": false
+        },
+        {
+          "label_uid": "British",
+          "text": "BRITISH",
+          "alt_text": "BRITISH",
+          "color": "#4c4c4c",
+          "link_opens_in_new_window": false
+        },
+        {
+          "label_uid": "Aldi Price Match",
+          "text": "ALDI PRICE MATCH*",
+          "alt_text": "ALDI PRICE MATCH*",
+          "color": "#D70000",
+          "link": "https://www.sainsburys.co.uk/gol-ui/events/aldi-price-match",
+          "link_opens_in_new_window": false
+        },
+        {
+          "label_uid": "TypicalLife4Days",
+          "text": "Typical life 4 days",
+          "alt_text": "Typical life 4 days",
+          "color": "#218234",
+          "link": "/shop/gb/groceries/get-ideas/delivery-and-guides/freshness",
+          "link_opens_in_new_window": false
+        }
+      ],
+      "zone": "Meat & fish",
+      "department": null,
+      "reviews": {
+        "is_enabled": true,
+        "product_uid": "7977681",
+        "total": 911,
+        "average_rating": 3.034
+      },
+      "breadcrumbs": [
+        {
+          "label": "Meat & fish",
+          "url": "gb/groceries/meat-fish"
+        },
+        {
+          "label": "Chicken",
+          "url": "gb/groceries/chicken---turkey"
+        },
+        {
+          "label": "Chicken breast & fillet",
+          "url": "/gol-ui/groceries/meat-and-fish/chicken/chicken-breast-and-fillet/c:1020338"
+        }
+      ],
+      "details_html": "PFByb2R1Y3RDb250ZW50IHhtbG5zOmE9Imh0dHA6Ly93d3cuaW5zcGlyZS1qcy5jb20vU09MIj4KPEhUTUxDb250ZW50IGNvbnRlbnRQYXRoPSIvQ29udGVudC9tZWRpYS9odG1sL3Byb2R1Y3RzL2xhYmVsLy9fbGFiZWxfaW5zcGlyZS5odG1sIiBvdXRwdXRNZXRob2Q9InhodG1sIj4KPGRpdiBpZD0iYWNjb3JkaW9uLWNvbnRlbnQiPgo8aDMgY2xhc3M9InByb2R1Y3REYXRhSXRlbUhlYWRlciI+RGVzY3JpcHRpb248L2gzPgo8ZGl2IGNsYXNzPSJwcm9kdWN0VGV4dCI+CjxwPkZyZXNoIGNsYXNzIEEgY2hpY2tlbiBicmVhc3QgZmlsbGV0cyBza2lubGVzcyBhbmQgYm9uZWxlc3M8L3A+CjxwPgogICAgICAgICAgICAmbmJzcDsKICAgICAgICAgICAgPC9wPgo8cD4KPHA+UkVBUkVEIEJZIE9VUiBUUlVTVEVEIEZBUk1FUlMmbmJzcDs8L3A+Cgo8cD5PdXIgY2hpY2tlbnMgaGF2ZSBoYXBwaWVyICYgaGVhbHRoaWVyIGxpdmVzJm5ic3A7PC9wPgoKPHA+T3VyIGNoaWNrZW4gd2VsZmFyZSBzdGFuZGFyZHMgaW1wcm92ZWQgaW4gTWFyY2ggMjAyMy4gU2VlIHNhaW5zYnVyeXMuY28udWs8L3A+CjwvcD4KPC9kaXY+CjwvZGl2PgoKPGRpdiBpZD0iYWNjb3JkaW9uLWNvbnRlbnQiPgo8aDMgY2xhc3M9InByb2R1Y3REYXRhSXRlbUhlYWRlciI+TnV0cml0aW9uPC9oMz4KPGRpdiBjbGFzcz0icHJvZHVjdFRleHQiPgo8ZGl2IGNsYXNzPSJudXRyaXRpb25hbENvbnRlbnRTdW1tYXJ5Ij4KPGgyIGNsYXNzPSJyZWZlcmVuY2UiPnBlciAxMDBnIFR5cGljYWwgdmFsdWVzCihjb29rZWQgYXMgcGVyIGluc3RydWN0aW9ucyk8L2gyPgo8dWwgY2xhc3M9ImxvemVuZ2VCbG9jayI+CjxsaSBjbGFzcz0ibG96ZW5nZSBlbmVyZ3kgZW5lcmd5Ij4KPGRpdiBjbGFzcz0ibG96ZW5nZUhlYWRlclNlY3Rpb24iPgo8aDMgY2xhc3M9ImxvemVuZ2VUaXRsZSI+RU5FUkdZPC9oMz4KPHA+NTgya0o8L3A+CjxwPjEzN2tjYWw8L3A+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJwZXJjZW50YWdlIj4KPHA+NyU8L3A+CjwvZGl2Pgo8cCBjbGFzcz0iYWNjZXNzIj53aGl0ZTwvcD4KPC9saT4KPGxpIGNsYXNzPSJsb3plbmdlIGxvdyBmYXQiPgo8ZGl2IGNsYXNzPSJsb3plbmdlSGVhZGVyU2VjdGlvbiI+CjxoMyBjbGFzcz0ibG96ZW5nZVRpdGxlIj5GQVQ8L2gzPgo8cD4xLjZnPC9wPgo8L2Rpdj4KPGRpdiBjbGFzcz0icGVyY2VudGFnZSI+CjxwPjIlPC9wPgo8L2Rpdj4KPHAgY2xhc3M9ImFjY2VzcyI+Z3JlZW48L3A+CjwvbGk+CjxsaSBjbGFzcz0ibG96ZW5nZSBsb3cgc2F0dXJhdGVzIj4KPGRpdiBjbGFzcz0ibG96ZW5nZUhlYWRlclNlY3Rpb24iPgo8aDMgY2xhc3M9ImxvemVuZ2VUaXRsZSI+U0FUVVJBVEVTPC9oMz4KPHA+MC41ZzwvcD4KPC9kaXY+CjxkaXYgY2xhc3M9InBlcmNlbnRhZ2UiPgo8cD4zJTwvcD4KPC9kaXY+CjxwIGNsYXNzPSJhY2Nlc3MiPmdyZWVuPC9wPgo8L2xpPgo8bGkgY2xhc3M9ImxvemVuZ2UgbG93IHN1Z2FycyI+CjxkaXYgY2xhc3M9ImxvemVuZ2VIZWFkZXJTZWN0aW9uIj4KPGgzIGNsYXNzPSJsb3plbmdlVGl0bGUiPlNVR0FSUzwvaDM+CjxwPiZsdDswLjVnPC9wPgo8L2Rpdj4KPGRpdiBjbGFzcz0icGVyY2VudGFnZSI+CjxwPiZsdDsxJTwvcD4KPC9kaXY+CjxwIGNsYXNzPSJhY2Nlc3MiPmdyZWVuPC9wPgo8L2xpPgo8bGkgY2xhc3M9ImxvemVuZ2UgbG93IHNhbHQiPgo8ZGl2IGNsYXNzPSJsb3plbmdlSGVhZGVyU2VjdGlvbiI+CjxoMyBjbGFzcz0ibG96ZW5nZVRpdGxlIj5TQUxUPC9oMz4KPHA+MC4xNGc8L3A+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJwZXJjZW50YWdlIj4KPHA+MiU8L3A+CjwvZGl2Pgo8cCBjbGFzcz0iYWNjZXNzIj5ncmVlbjwvcD4KPC9saT4KPC91bD4KPGRpdiBjbGFzcz0ibG96ZW5nZUZvb3RlciI+CjxwPiUgb2YgdGhlIFJlZmVyZW5jZSBJbnRha2VzPC9wPgo8cD5UeXBpY2FsIHZhbHVlcwooY29va2VkIGFzIHBlciBpbnN0cnVjdGlvbnMpIHBlciAxMDBnIDogRW5lcmd5IDU4MiBrSi8xMzcga2NhbDwvcD4KPHA+LzwvcD4KPC9kaXY+CjwvZGl2Pgo8ZGl2Pgo8cD4KPHN0cm9uZz5UYWJsZSBvZiBOdXRyaXRpb25hbCBJbmZvcm1hdGlvbjwvc3Ryb25nPgo8L3A+CjxkaXYgY2xhc3M9InRhYmxlV3JhcHBlciI+Cjx0YWJsZSBjbGFzcz0ibnV0cml0aW9uVGFibGUiPgo8dGhlYWQ+Cjx0ciBjbGFzcz0idGFibGVUaXRsZVJvdyI+Cjx0aCBzY29wZT0iY29sIj5UeXBpY2FsIHZhbHVlcwooY29va2VkIGFzIHBlciBpbnN0cnVjdGlvbnMpPC90aD48dGggc2NvcGU9ImNvbCI+cGVyIDEwMGcmbmJzcDs8L3RoPjx0aCBzY29wZT0iY29sIj5wZXIgMTAwZyZuYnNwOzwvdGg+PHRoIHNjb3BlPSJjb2wiPiUgYmFzZWQgb24gUkkgZm9yIEF2ZXJhZ2UgQWR1bHQ8L3RoPgo8L3RyPgo8L3RoZWFkPgo8dHIgY2xhc3M9InRhYmxlUm93MSI+Cjx0aCBzY29wZT0icm93IiBjbGFzcz0icm93SGVhZGVyIiByb3dzcGFuPSIyIj5FbmVyZ3k8L3RoPjx0ZCBjbGFzcz0idGFibGVSb3cxIj41ODJrSjwvdGQ+PHRkIGNsYXNzPSJ0YWJsZVJvdzEiPjU4MmtKPC90ZD48dGQgY2xhc3M9InRhYmxlUm93MSI+LTwvdGQ+CjwvdHI+Cjx0ciBjbGFzcz0idGFibGVSb3cwIj4KPHRkIGNsYXNzPSJ0YWJsZVJvdzAiPjEzN2tjYWw8L3RkPjx0ZCBjbGFzcz0iIj4xMzdrY2FsPC90ZD48dGQgY2xhc3M9IiI+NyU8L3RkPgo8L3RyPgo8dHIgY2xhc3M9InRhYmxlUm93MSI+Cjx0aCBzY29wZT0icm93IiBjbGFzcz0icm93SGVhZGVyIj5GYXQ8L3RoPjx0ZCBjbGFzcz0idGFibGVSb3cxIj4xLjZnPC90ZD48dGQgY2xhc3M9Im51dHJpdGlvbkxldmVsMSI+MS42ZzwvdGQ+PHRkIGNsYXNzPSJudXRyaXRpb25MZXZlbDEiPjIlPC90ZD4KPC90cj4KPHRyIGNsYXNzPSJ0YWJsZVJvdzAiPgo8dGggc2NvcGU9InJvdyIgY2xhc3M9InJvd0hlYWRlciI+U2F0dXJhdGVzPC90aD48dGQgY2xhc3M9InRhYmxlUm93MCI+MC41ZzwvdGQ+PHRkIGNsYXNzPSJudXRyaXRpb25MZXZlbDEiPjAuNWc8L3RkPjx0ZCBjbGFzcz0ibnV0cml0aW9uTGV2ZWwxIj4zJTwvdGQ+CjwvdHI+Cjx0ciBjbGFzcz0idGFibGVSb3cxIj4KPHRoIHNjb3BlPSJyb3ciIGNsYXNzPSJyb3dIZWFkZXIiPkNhcmJvaHlkcmF0ZTwvdGg+PHRkIGNsYXNzPSJ0YWJsZVJvdzEiPiZsdDswLjVnPC90ZD48dGQgY2xhc3M9IiI+Jmx0OzAuNWc8L3RkPjx0ZCBjbGFzcz0iIj5MZXNzIHRoYW4gMSU8L3RkPgo8L3RyPgo8dHIgY2xhc3M9InRhYmxlUm93MCI+Cjx0aCBzY29wZT0icm93IiBjbGFzcz0icm93SGVhZGVyIj5TdWdhcnM8L3RoPjx0ZCBjbGFzcz0idGFibGVSb3cwIj4mbHQ7MC41ZzwvdGQ+PHRkIGNsYXNzPSJudXRyaXRpb25MZXZlbDEiPiZsdDswLjVnPC90ZD48dGQgY2xhc3M9Im51dHJpdGlvbkxldmVsMSI+TGVzcyB0aGFuIDElPC90ZD4KPC90cj4KPHRyIGNsYXNzPSJ0YWJsZVJvdzEiPgo8dGggc2NvcGU9InJvdyIgY2xhc3M9InJvd0hlYWRlciI+RmlicmU8L3RoPjx0ZCBjbGFzcz0idGFibGVSb3cxIj4mbHQ7MC41ZzwvdGQ+PHRkIGNsYXNzPSIiPiZsdDswLjVnPC90ZD48dGQgY2xhc3M9IiI+LTwvdGQ+CjwvdHI+Cjx0ciBjbGFzcz0idGFibGVSb3cwIj4KPHRoIHNjb3BlPSJyb3ciIGNsYXNzPSJyb3dIZWFkZXIiPlByb3RlaW48L3RoPjx0ZCBjbGFzcz0idGFibGVSb3cwIj4zMC42ZzwvdGQ+PHRkIGNsYXNzPSIiPjMwLjZnPC90ZD48dGQgY2xhc3M9IiI+NjElPC90ZD4KPC90cj4KPHRyIGNsYXNzPSJ0YWJsZVJvdzEiPgo8dGggc2NvcGU9InJvdyIgY2xhc3M9InJvd0hlYWRlciI+U2FsdDwvdGg+PHRkIGNsYXNzPSJ0YWJsZVJvdzEiPjAuMTRnPC90ZD48dGQgY2xhc3M9Im51dHJpdGlvbkxldmVsMSI+MC4xNGc8L3RkPjx0ZCBjbGFzcz0ibnV0cml0aW9uTGV2ZWwxIj4yJTwvdGQ+CjwvdHI+CjwvdGFibGU+CjwvZGl2Pgo8cD5UaGlzIHBhY2sgY29udGFpbnMgbi9hIHNlcnZpbmdzPC9wPgo8L2Rpdj4KPC9kaXY+CjwvZGl2PgoKPGRpdiBpZD0iYWNjb3JkaW9uLWNvbnRlbnQiPgo8aDMgY2xhc3M9InByb2R1Y3REYXRhSXRlbUhlYWRlciI+SW5ncmVkaWVudHM8L2gzPgo8ZGl2IGNsYXNzPSJwcm9kdWN0VGV4dCI+CjxwPlBhY2thZ2VkIGluIGEgcHJvdGVjdGl2ZSBhdG1vc3BoZXJlPC9wPgo8L2Rpdj4KPC9kaXY+Cgo8aDMgY2xhc3M9InByb2R1Y3REYXRhSXRlbUhlYWRlciI+SGVhbHRoPC9oMz4KPGRpdiBjbGFzcz0icHJvZHVjdFRleHQiPgo8cD5OYXR1cmFsbHkgaGlnaCBpbiBwcm90ZWluOiBwcm90ZWluIHN1cHBvcnRzIHRoZSBncm93dGggYW5kIG1haW50ZW5hbmNlIG9mIG11c2NsZSBtYXNzLjwvcD4KPC9kaXY+CjxkaXYgY2xhc3M9InByb2R1Y3RUZXh0Ij4KPHA+RW5qb3kgYXMgcGFydCBvZiBhIHZhcmllZCwgYmFsYW5jZWQgZGlldCBhbmQgYSBoZWFsdGh5IGxpZmVzdHlsZS48L3A+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJwcm9kdWN0VGV4dCI+CjxwPkFsdGhvdWdoIGV2ZXJ5IGNhcmUgaGFzIGJlZW4gdGFrZW4gdG8gcmVtb3ZlIGFsbCBib25lcywgc29tZSBtYXkgcmVtYWluLjwvcD4KPC9kaXY+CgoKPGRpdiBpZD0iYWNjb3JkaW9uLWNvbnRlbnQiPgo8aDMgY2xhc3M9InByb2R1Y3REYXRhSXRlbUhlYWRlciI+UHJlcGFyYXRpb24gYW5kIFNhZmV0eTwvaDM+CjxkaXYgY2xhc3M9InByb2R1Y3RUZXh0Ij4KPHA+CjxzdHJvbmc+Q29va2luZyBpbnN0cnVjdGlvbnM6IE92ZW48L3N0cm9uZz4KPC9wPgo8cD5PdmVuIGNvb2sgZnJvbSBjaGlsbGVkLiBJZiBmcmVlemluZyBhdCBob21lLCBkZWZyb3N0IHRob3JvdWdobHkgYmVmb3JlIGNvb2tpbmcuCkJlZm9yZSBjb29raW5nOiBQcmVoZWF0IG92ZW4gdG8gMTkwwrBDLCBGYW4gMTcwwrBDLCBHYXMgNSBtYXJrIDUuIApSZW1vdmUgYWxsIHBhY2thZ2luZy4gUGxhY2UgYnJlYXN0IGZpbGxldHMgb24gYSBiYWtpbmcgdHJheSBvbiB0aGUgbWlkZGxlIHNoZWxmIG9mIHRoZSBvdmVuIGZvciAzNSBtaW51dGVzLiAKRHVyaW5nIGNvb2tpbmc6IEJhc3RlIHRoZSBjaGlja2VuIHdpdGggdGhlIGNvb2tpbmcganVpY2VzLgpBZnRlciBjb29raW5nOiBDaGVjayBmb29kIGlzIHBpcGluZyBob3QuIApBbGwgY29va2luZyBhcHBsaWFuY2VzIHZhcnkuIEZpbGxldCBzaXplcyBhbHNvIHZhcnkuIApUaGlzIGlzIGEgZ3VpZGUgb25seS48L3A+CjxwPgo8c3Ryb25nPldhcm5pbmdzOjwvc3Ryb25nPgo8L3A+CjxwPkRvbid0IHdhc2ggcmF3IGNoaWNrZW4uPC9wPgo8cD5LZWVwIHJhdyBwb3VsdHJ5IHNlcGFyYXRlIGZyb20gY29va2VkIGZvb2RzLjwvcD4KPHA+VXNlIHNlcGFyYXRlIGtpdGNoZW4gdXRlbnNpbHMgYW5kIHN1cmZhY2VzIGZvciByYXcgcG91bHRyeSBhbmQgY29va2VkIGZvb2RzIG9yIHdhc2ggdGhlbSB0aG9yb3VnaGx5IGluIGJldHdlZW4gdXNlLjwvcD4KPHA+V2FzaCBoYW5kcyBhZnRlciBoYW5kbGluZyByYXcgcG91bHRyeS48L3A+CjxwPkNvb2sgcmF3IHBvdWx0cnkgdGhvcm91Z2hseSB1bnRpbCBpdCBpcyBwaXBpbmcgaG90IHRocm91Z2hvdXQgYW5kIG5vIHBpbmsgY29sb3VyIHJlbWFpbnMuPC9wPgo8cD5Qb3VsdHJ5IGlzIGNvb2tlZCBpZiB0aGUganVpY2VzIHJ1biBjbGVhciB3aGVuIHRoZSBkZWVwZXN0IHBhcnQgb2YgdGhlIGZsZXNoIGlzIHBpZXJjZWQgd2l0aCBhIHRoaW4gc2tld2VyLjwvcD4KPC9kaXY+CjwvZGl2PgoKPGRpdiBpZD0iYWNjb3JkaW9uLWNvbnRlbnQiPgo8aDMgY2xhc3M9InByb2R1Y3REYXRhSXRlbUhlYWRlciI+Q291bnRyeSBvZiBPcmlnaW48L2gzPgo8ZGl2IGNsYXNzPSJwcm9kdWN0VGV4dCI+CjxwPlBhY2tlZCBpbiBOb3J0aGVybiBJcmVsYW5kLCBVbml0ZWQgS2luZ2RvbSwgdXNpbmcgY2hpY2tlbiBmcm9tIHRoZSBVSzwvcD4KPC9kaXY+CjwvZGl2PgoKPGRpdiBpZD0iYWNjb3JkaW9uLWNvbnRlbnQiPgo8aDMgY2xhc3M9InByb2R1Y3REYXRhSXRlbUhlYWRlciI+U2l6ZTwvaDM+CjxkaXYgY2xhc3M9InByb2R1Y3RUZXh0Ij4KPHA+MzIwZzwvcD4KPC9kaXY+CjwvZGl2PgoKPGRpdiBpZD0iYWNjb3JkaW9uLWNvbnRlbnQiPgo8aDMgY2xhc3M9InByb2R1Y3REYXRhSXRlbUhlYWRlciI+U3RvcmFnZTwvaDM+CjxkaXYgY2xhc3M9InByb2R1Y3RUZXh0Ij4KPHA+Rm9yIHVzZSBieSBkYXRlOiBzZWUgZnJvbnQgb2YgcGFjay4gS2VlcCByZWZyaWdlcmF0ZWQuIE9uY2Ugb3BlbmVkLCB1c2Ugd2l0aGluIDI0IGhvdXJzIGFuZCBkbyBub3QgZXhjZWVkIHRoZSB1c2UgYnkgZGF0ZS4gPC9wPgo8cD5Gb3IgYmVzdCBxdWFsaXR5LCBmcmVlemUgYXMgc29vbiBhcyBwb3NzaWJsZSBhZnRlciBwdXJjaGFzZSBhbmQgYWx3YXlzIHdpdGhpbiB0aGUgdXNlIGJ5IGRhdGUuIE9uY2UgZnJvemVuIHVzZSB3aXRoaW4gMSBtb250aC4gT25jZSBkZWZyb3N0ZWQgdXNlIHRoZSBzYW1lIGRheS4gRG8gbm90IHJlZnJlZXplIG9uY2UgZGVmcm9zdGVkLiA8L3A+CjwvZGl2Pgo8L2Rpdj4KCjxkaXYgaWQ9ImFjY29yZGlvbi1jb250ZW50Ij4KPGgzIGNsYXNzPSJwcm9kdWN0RGF0YUl0ZW1IZWFkZXIiPlBhY2thZ2luZzwvaDM+CjxkaXYgY2xhc3M9InByb2R1Y3RUZXh0Ij4KPHA+UmVjeWNsZSB0cmF5PC9wPgo8cD5EbyBOb3QgUmVjeWNsZSBmaWxtPC9wPgo8L2Rpdj4KPC9kaXY+Cgo8ZGl2IGlkPSJhY2NvcmRpb24tY29udGVudCI+CjxoMyBjbGFzcz0icHJvZHVjdERhdGFJdGVtSGVhZGVyIj5NYW51ZmFjdHVyZXI8L2gzPgo8ZGl2IGNsYXNzPSJwcm9kdWN0VGV4dCI+CjxwPldlIGFyZSBoYXBweSB0byByZXBsYWNlIHRoaXMgaXRlbSBpZiBpdCBpcyBub3Qgc2F0aXNmYWN0b3J5PC9wPgo8cD5TYWluc2J1cnkncyBTdXBlcm1hcmtldHMgTHRkLjwvcD4KPHA+MzMgQ2hhcnRlcmhvdXNlIFN0cmVldCwgTG9uZG9uLCBFQzFNIDZIQTwvcD4KPHA+Q3VzdG9tZXIgc2VydmljZXMgMDgwMCA2MzYyNjI8L3A+CjwvZGl2Pgo8L2Rpdj4KCjwvSFRNTENvbnRlbnQ+CjwvUHJvZHVjdENvbnRlbnQ+Cg==",
+      "assets": {
+        "plp_image": "https://assets.sainsburys-groceries.co.uk/gol/7977681/image.jpg",
+        "images": [
+          {
+            "id": "1",
+            "sizes": [
+              {
+                "width": 100,
+                "height": 100,
+                "url": "https://assets.sainsburys-groceries.co.uk/gol/7977681/1/100x100.jpg"
+              },
+              {
+                "width": 140,
+                "height": 140,
+                "url": "https://assets.sainsburys-groceries.co.uk/gol/7977681/1/140x140.jpg"
+              },
+              {
+                "width": 300,
+                "height": 300,
+                "url": "https://assets.sainsburys-groceries.co.uk/gol/7977681/1/300x300.jpg"
+              },
+              {
+                "width": 640,
+                "height": 640,
+                "url": "https://assets.sainsburys-groceries.co.uk/gol/7977681/1/640x640.jpg"
+              },
+              {
+                "width": 1500,
+                "height": 1500,
+                "url": "https://assets.sainsburys-groceries.co.uk/gol/7977681/1/1500x1500.jpg"
+              },
+              {
+                "width": 2365,
+                "height": 2365,
+                "url": "https://assets.sainsburys-groceries.co.uk/gol/7977681/1/2365x2365.jpg"
+              }
+            ]
+          }
+        ],
+        "video": []
+      },
+      "description": [
+        "Fresh class A chicken breast fillets skinless and boneless",
+        "REARED BY OUR TRUSTED FARMERS",
+        "Our chickens have happier & healthier lives",
+        "Our chicken welfare standards improved in March 2023. See sainsburys.co.uk"
+      ],
+      "short_description": "Fresh class A chicken breast fillets skinless and boneless",
+      "important_information": [
+        "The above details have been prepared to help you select suitable products. Products and their ingredients are liable to change.",
+        "<strong>You should always read the label before consuming or using the product and never rely solely on the information presented here.",
+        "If you require specific advice on any Sainsbury's branded product, please contact our Customer Careline on 0800 636262. For all other products, please contact the manufacturer, whose details will appear on the packaging or label. Sainsbury's is therefore unable to accept liability for any incorrect information.",
+        "You should also note that the picture / images show only our serving suggestions of how to serve or prepare your food – all accessories and additional items and/or ingredients pictured with the product you are purchasing are not included.",
+        "This information is supplied for your personal use only. It may not be reproduced in any way without the prior consent of Sainsbury's Supermarkets Ltd and due acknowledgement"
+      ],
+      "attachments": [],
+      "categories": [
+        {
+          "id": "310865",
+          "name": "Chicken breast & fillet"
+        },
+        {
+          "id": "417391",
+          "name": "Price lockdown"
+        },
+        {
+          "id": "442353",
+          "name": "Price Lock"
+        },
+        {
+          "id": "450494",
+          "name": "Cross sell audit - Do not leave on"
+        },
+        {
+          "id": "474595",
+          "name": "Meat & fish essentials"
+        },
+        {
+          "id": "502859",
+          "name": "Aldi Price Match"
+        },
+        {
+          "id": "500860",
+          "name": "Better for you meat & fish"
+        },
+        {
+          "id": "602362",
+          "name": "Ways to save"
+        },
+        {
+          "id": "607854",
+          "name": "Aldi Price Match"
+        },
+        {
+          "id": "604354",
+          "name": "Best of British"
+        },
+        {
+          "id": "641353",
+          "name": "Best of British"
+        }
+      ],
+      "attributes": {
+        "brand": [
+          "Sainsbury's"
+        ]
+      },
+      "is_supply_chain_orderable": false,
+      "display_icons": [
+        "Chilled",
+        "British",
+        "Aldi Price Match",
+        "TypicalLife4Days"
+      ],
+      "pdp_deep_link": "/shop/ProductDisplay?storeId=10151&langId=44&productId=1299208",
+      "health_classification": {
+        "health_rating_score_value": "5"
+      },
+      "promise": {
+        "type": "",
+        "earliest_promise_date": null,
+        "last_amendment_date": null,
+        "status": {
+          "label": "",
+          "type": "NONE"
+        }
+      }
+    }
+  ]
+}

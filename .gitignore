@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.pem
+
+# scraper data (db + exported json)
+scraper/data/
+
+# extension build output
+extension/data/
