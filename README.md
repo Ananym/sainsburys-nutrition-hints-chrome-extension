@@ -30,4 +30,4 @@ A Chrome extension that overlays nutrition information on Sainsbury's grocery pa
 
 ## Privacy
 
-This gathers nothing.
+[Privacy Policy](https://ananym.github.io/sainsburys-nutrition-hints-chrome-extension/privacy-policy)
