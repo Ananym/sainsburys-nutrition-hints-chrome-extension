@@ -22,9 +22,8 @@ const buildOptions = {
 };
 
 function copyStatic() {
-  // Strip "key" from manifest for Web Store compatibility
   const manifest = JSON.parse(readFileSync("static/manifest.json", "utf-8"));
-  delete manifest.key;
+  if (!watch) delete manifest.key; // Web Store rejects uploads with "key"
   writeFileSync("dist/manifest.json", JSON.stringify(manifest, null, 2));
   cpSync("static/content.css", "dist/content.css");
 cpSync("static/popup.html", "dist/popup.html");
