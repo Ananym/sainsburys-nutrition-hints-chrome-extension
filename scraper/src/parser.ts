@@ -152,12 +152,13 @@ function identifyNutrient(label: string, valueText: string | undefined): Nutrien
 
   // Energy/kcal/kJ detection — check raw label before cleaning strips units.
   // Handles: "Energy", "Energy - kJ", "- kcal", "-kcal", "kcal", "Energy (kJ/kcal)"
-  if (raw.startsWith("energ")) {
+  // Also handles: "(kcal)" sub-row under "Energy (kJ)", and short labels "E", "E=", "E:"
+  if (raw.startsWith("energ") || /^e\s*[=:]?\s*$/.test(raw)) {
     if (v.includes("kcal") || raw.includes("kcal")) return "calories";
     if (v.includes("kj") || raw.includes("kj")) return null;
     return "calories";
   }
-  if (/^-?\s*kcal/i.test(raw)) return "calories";
+  if (/^[\s(-]*kcal/i.test(raw)) return "calories";
   if (/^-?\s*kj/i.test(raw)) return null;
   if (raw === "calories" || raw === "calorie") return "calories";
 
