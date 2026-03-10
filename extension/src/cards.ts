@@ -35,6 +35,8 @@ export function clearAnnotations(): void {
  * - Category pages: ul.ln-o-grid containing article.pt-card
  */
 export function findProductList(): HTMLElement | null {
+  // Single product detail pages have a .pd-details container — no list to sort
+  if (document.querySelector(".pd-details")) return null;
   // Search results page
   for (const grid of document.querySelectorAll<HTMLElement>("div.ds-o-grid")) {
     if (grid.querySelector("article.pt-card")) return grid;
